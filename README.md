@@ -1,1 +1,3 @@
 # fluentpython
+
+for study log. 
