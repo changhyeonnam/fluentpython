@@ -2,5 +2,5 @@
 
 [@fluentpython][fluentpython]
 
-[fluentpython]:"https://github.com/fluentpython"
+[fluentpython]:https://github.com/fluentpython
 
